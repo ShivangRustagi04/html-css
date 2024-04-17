@@ -1,0 +1,59 @@
+.video-title {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 25px;
+    font-style: normal;
+    text-align: left;
+    margin-bottom: 5px;
+ }
+
+ .video-stats{
+    font-family: Arial;
+    font-size: 14px;
+    color: gray;
+    font-weight: bold;
+    margin-top: 5px;
+
+ }
+
+ .video_uploader_name{
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: normal;
+    color: gray;
+    margin-top: 5px;
+    margin-bottom: 20px;
+
+ }
+ .video-body{
+    font-family: Arial;
+    font-size: 14px;
+    width: 280px;
+    line-height: 22px;
+    margin-top: 19px;
+ }
+
+ .video{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-decoration: underline;
+ }
+ .span-example {
+    cursor: pointer;
+ }
+ .span-example:hover {
+    color: blue;
+ }
+
+         a:visited {
+             color: white; /* Visited link color */
+             background-color: transparent;
+             text-decoration: none;
+         }
